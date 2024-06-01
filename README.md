@@ -12,7 +12,5 @@
 
 ### Personal Projects
 
-- Automatic Magazine Loader
-- Workbench
-- Solidworks models
-
+- Hex Bit Holder
+![alt text](https://github.com/h986/test123/blob/main/IMG_9238.jpg?raw=true)
